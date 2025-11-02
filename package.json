@@ -1,0 +1,10 @@
+{
+  "name": "merge-time-ranges",
+  "version": "1.1.0",
+  "description": "Merge overlapping or near-overlapping time ranges with a gap threshold.",
+  "main": "my-module.js",
+  "keywords": ["merge", "time", "ranges", "timestamps"],
+  "author": "Hassan Sajid",
+  "license": "MIT"
+}
+
