@@ -1,8 +1,8 @@
 {
   "name": "merge-time-ranges",
-  "version": "1.1.1",
+  "version": "2.0.1",
   "description": "Merge overlapping or near-overlapping time ranges with a gap threshold.",
-  "main": "my-module.js",
+  "main": "mergetime.js",
   "keywords": [
     "merge",
     "time",
